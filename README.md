@@ -5,15 +5,15 @@
 
 
 <div align="center">
-    <a target="_blank">
+    <a href="https://arxiv.org/abs/2310.07056v1" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-green" alt="Paper arXiv"></a>
-    <a href="https://textpsg.github.io" target="_blank">
+    <a href="https://vis-www.cs.umass.edu/TextPSG/" target="_blank">
     <img src="https://img.shields.io/badge/Page-TextPSG-blue" alt="Project Page"/></a>
 </div>
 </h2>
 
 This is the official repository of **TextPSG: Panoptic Scene Graph Generation from Textual Descriptions**.
 
-For more information, please visit our [**project page**](https://textpsg.github.io).
+For more information, please visit our [**project page**](https://vis-www.cs.umass.edu/TextPSG/).
 
 ## TBA
